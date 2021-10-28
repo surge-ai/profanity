@@ -1,4 +1,5 @@
-# profanity
+# The Obscene List
+*brought to you by: www.surgehq.ai*
 Dataset of US-English profanity, originally created in September 2021
 
 **tl;dr**
