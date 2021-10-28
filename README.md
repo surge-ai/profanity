@@ -12,3 +12,5 @@ Need profanities in Chinese, German, Russian, Turkish, or any other language? Re
 **Why**
 
 This data is essential for important work such as building community moderation tools, measuring toxic/profane speech, and managing platform abuse.
+
+![https://imgur.com/a/6lbzxfx]
