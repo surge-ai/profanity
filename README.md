@@ -9,4 +9,4 @@ We created a dataset of ~16k profanities in 13 languages. We made the 2k+ US-Eng
 Need profanities in Chinese, German, Russian, Turkish, or any other language reach out: profanity@surgehq.ai
 
 **Why**
-There simply aren't good alternatives freely available and this data is essential for important work such as building community moderation tools or to measuring toxic/profane speech or managing platform abuse. 
+This data is essential for important work such as building community moderation tools, measuring toxic/profane speech, and managing platform abuse.
