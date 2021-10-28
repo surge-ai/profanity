@@ -1,6 +1,7 @@
 # The Obscene List
 *brought to you by: www.surgehq.ai*
-Dataset of US-English profanity, originally created in September 2021
+
+A dataset of US-English profanity, originally created in September 2021
 
 **tl;dr**
 We created a dataset of ~16k profanities in 13 languages. We made the 2k+ US-English profanities and they're variations publicly available.
