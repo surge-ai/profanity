@@ -13,4 +13,4 @@ Need profanities in Chinese, German, Russian, Turkish, or any other language? Re
 
 This data is essential for important work such as building community moderation tools, measuring toxic/profane speech, and managing platform abuse.
 
-![profane_surge](https://imgur.com/a/6lbzxfx)
+![profane_surge](https://github.com/surge-ai/profanity/blob/main/EMOJI%20angry.png)
