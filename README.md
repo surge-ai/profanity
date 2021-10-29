@@ -5,7 +5,7 @@ A dataset of US-English profanity, originally created in September 2021
 
 **tl;dr**
 
-We created a dataset of ~16k profanities in 13 languages. We made the 2k+ US-English profanities and they're variations publicly available.
+We created a dataset of ~16k profanities in 13 languages. We made the 2k+ US-English profanities and their variations publicly available.
 
 Need profanities in Chinese, German, Russian, Turkish, or any other language? Reach out: profanity@surgehq.ai
 
