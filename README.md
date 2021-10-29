@@ -1,16 +1,12 @@
-# The Obscene List
-*brought to you by: www.surgehq.ai*
+# The Obscenity List
+*by [Surge AI](https://www.surgehq.ai)*
 
-A dataset of US-English profanity, originally created in September 2021
+Ever wish you had a large, ready-made list of profanity? Maybe you want to remove NSFW comments, prevent offensive usernames, build content moderation tools, or monitor toxic speech, and you can't dream up enough expletives, curses, swear words, and obscenities – in all their wondrous v4ri4ti0ns – on your own.
 
-**tl;dr**
+So we've been creating the world's largest list of profanity, in 20+ languages.
 
-We created a dataset of ~16k profanities in 13 languages. We made the 2k+ US-English profanities and their variations publicly available.
+This repo contains 2000+ popular US English profanities and their variations. We'll also be adding more languages and profanity annotations (e.g., severity level, profanity type, variations) over time.
 
-Need profanities in Chinese, German, Russian, Turkish, or any other language? Reach out: profanity@surgehq.ai
-
-**Why**
-
-This data is essential for important work such as building community moderation tools, measuring toxic/profane speech, and managing platform abuse.
+Need a larger profanity list, a list of obscenities in other languages (Spanish, French, German, Japanese, Portuguese, etc), or content moderation and data labeling help? Reach out to profanity@surgehq.ai.
 
 ![profane_surge](https://github.com/surge-ai/profanity/blob/main/EMOJI%20angry.png)
