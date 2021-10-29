@@ -9,4 +9,4 @@ This repo contains 2000+ popular US English profanities and their variations. We
 
 Need a larger profanity list, a list of obscenities in other languages (Spanish, French, German, Japanese, Portuguese, etc), or content moderation and data labeling help? Reach out to profanity@surgehq.ai.
 
-![profane_surge](https://github.com/surge-ai/profanity/blob/main/EMOJI%20angry.png)
+![Profanity Logo](https://github.com/surge-ai/profanity/blob/main/logo.png)
