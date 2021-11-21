@@ -23,3 +23,5 @@ We'll be adding more languages and profanity annotations (e.g., augmenting each 
 Need a larger set of expletives and slurs, or a list of swear words in other languages (Spanish, French, German, Japanese, Portuguese, etc)? We love feedback. Post an issue or reach out to profanity@surgehq.ai!
 
 ![Profanity Logo](https://github.com/surge-ai/profanity/blob/main/logo.png)
+
+Follow us on Twitter at [@HelloSurgeAI](https://www.twitter.com/@HelloSurgeAI).
