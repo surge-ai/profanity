@@ -9,7 +9,7 @@ We're creating the world's largest profanity dataset, in 20+ languages.
 
 This repo contains 1600+ popular English profanities and their variations.
 
-*Columns*
+**Columns**
 * `text`: the profanity
 * `severity_rating`: We asked 5 [Surge AI](https://www.surgehq.ai) data labelers to rate how severe they believed each profanity to be, on a 1-3 point scale. This is the mean of those 5 ratings.
 * `severity_description`: We rounded `severity_rating` to the nearest integer. `Mild` corresponds to a rounded mean rating of `1`, `Strong` to `2`, and `Severe` to `3`.
