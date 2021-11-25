@@ -11,8 +11,24 @@ This repo contains 1600+ popular English profanities and their variations.
 
 **Columns**
 * `text`: the profanity
+* `category_1`: the profanity's primary category (see below for list of categories)
+* `category_2`: the profanity's secondary category 
+* `category_3`: the profanity's tertiary category 
 * `severity_rating`: We asked 5 [Surge AI](https://www.surgehq.ai) data labelers to rate how severe they believed each profanity to be, on a 1-3 point scale. This is the mean of those 5 ratings.
 * `severity_description`: We rounded `severity_rating` to the nearest integer. `Mild` corresponds to a rounded mean rating of `1`, `Strong` to `2`, and `Severe` to `3`.
+
+## Categories
+We organized the profanity into the following categories:
+- sexual anatomy / sexual acts (ass kisser, dick, pigfucker)
+- bodily fluids / excrement (shit, cum)
+- sexual orientation / gender  (faggot, tranny, bitch, whore)
+- racial / ethnic (chink, n3gro)
+- mental disability (retard, dumbass)
+- physical disability (quadriplegic bitch)
+- physical attributes (fatass, ugly whore)
+- animal references (pigfucker, jackass)
+- religious offense (goddamn)
+- political (China virus)
 
 ## Future
 
