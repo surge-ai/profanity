@@ -1,5 +1,5 @@
 # The Obscenity List
-*by [Surge AI](https://www.surgehq.ai)*, the world's most powerful NLP data labeling platform and workforce
+*by [Surge AI, the world's most powerful NLP data labeling platform and workforce](https://www.surgehq.ai)*
 
 Ever wish you had a ready-made list of profanity? Maybe you want to remove NSFW comments, filter offensive usernames, or build content moderation tools, and you can't dream up enough obscenities on your own.
 
