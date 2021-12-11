@@ -1,9 +1,9 @@
 # The Obscenity List
-*by [Surge AI](https://www.surgehq.ai)*
+*by [Surge AI](https://www.surgehq.ai)*, the world's most powerful NLP data labeling platform and workforce
 
 Ever wish you had a ready-made list of profanity? Maybe you want to remove NSFW comments, filter offensive usernames, or build content moderation tools, and you can't dream up enough obscenities on your own.
 
-We're creating the world's largest profanity dataset, in 20+ languages.
+At Surge AI, we help companies build human-powered datasets to train stunning AI and NLP, and we're creating the world's largest profanity list in 20+ languages.
 
 ## Dataset
 
@@ -39,7 +39,7 @@ We'll be adding more languages and profanity annotations (e.g., augmenting each 
 
 ## Contact
 
-Need a larger set of expletives and slurs, or a list of swear words in other languages (Spanish, French, German, Japanese, Portuguese, etc)? We love feedback. Post an issue or reach out to profanity@surgehq.ai!
+Need a larger set of expletives and slurs, or a list of swear words in other languages (Spanish, French, German, Japanese, Portuguese, etc)? We work with top AI and content moderation companies around the world, and we love feedback. Post an issue or reach out to team@surgehq.ai!
 
 ![Profanity Logo](https://github.com/surge-ai/profanity/blob/main/logo.png)
 
