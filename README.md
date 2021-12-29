@@ -37,6 +37,8 @@ We organized the profanity into the following categories:
 
 We'll be adding more languages and profanity annotations (e.g., augmenting each profanity with its severity level, type, and other variations) over time.
 
+Sign up [here](https://forms.gle/u1SKL4zySK2wMp1r7) to receive updates on this dataset and be the first to learn about new datasets we release!
+
 ## Contact
 
 Need a larger set of expletives and slurs, or a list of swear words in other languages (Spanish, French, German, Japanese, Portuguese, etc)? We work with top AI and content moderation companies around the world, and we love feedback. Post an issue or reach out to team@surgehq.ai!
