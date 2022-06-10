@@ -37,6 +37,8 @@ We organized the profanity into the following categories:
 
 We'll be adding more languages and profanity annotations (e.g., augmenting each profanity with its severity level, type, and other variations) over time.
 
+Check out our other [free datasets](https://www.surgehq.ai/datasets).
+
 Sign up [here](https://forms.gle/u1SKL4zySK2wMp1r7) to receive updates on this dataset and be the first to learn about new datasets we release!
 
 ## Contact
